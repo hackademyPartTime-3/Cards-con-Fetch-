@@ -1,0 +1,30 @@
+*{
+    font-family: 'Cormorant SC', serif;
+}
+
+.titulo{
+    font-size: 100px;
+}
+
+.img-fluid{
+   width: 300px;
+   height: 300px;
+}
+
+.bg-main{
+    background: linear-gradient(to bottom, transparent 0%, #64CF70 100%)
+}
+
+
+.titulo2{
+    font-size: 80px;
+}
+
+.card-body{
+    cursor: pointer;
+}
+
+.card-body:hover{
+    transform: scale(1.1);
+}
+
